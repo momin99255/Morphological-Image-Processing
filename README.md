@@ -50,13 +50,3 @@ The final mathematical morphological output was compared with the original grays
 ```text
 ├── Morphological_Image_Processing.ipynb
 └── README.md
-
-## Reference
-
-1. Khairul Anuar Mat Said and Asral Bahari Jambek,  
-   **"A Study on Image Processing Using Mathematical Morphological,"**  
-   3rd International Conference on Electronic Design (ICED), Phuket, Thailand, 2016.
-
-2. C. Spooner,  
-   **"How To Create a Great Gatsby Style Art Deco Pattern,"**  
-   Spoon Graphics, 2015.
